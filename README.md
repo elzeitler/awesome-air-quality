@@ -8,7 +8,7 @@ The whole work here is licensed under `Creative Commons`. Read the [LICENSE](LIC
 
 ## I want to submit
 
-Please read our [submission guidelines](Submission.md) and open a [pull-request](https://help.github.com/articles/about-pull-requests/).
+Please read our [submission guidelines](Contributing.md) and open a [pull-request](https://help.github.com/articles/about-pull-requests/).
 
 # Air Quality
 
